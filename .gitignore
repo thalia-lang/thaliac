@@ -1,0 +1,13 @@
+.idea/
+.fleet/
+.cache/
+.ignore/
+vcpkg_installed/
+
+cmake-build-debug/
+cmake-build-release/
+build/
+
+vcpkg-manifest-install.log
+compile_commands.json
+
